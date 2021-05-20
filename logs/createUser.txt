@@ -1,0 +1,44 @@
+Mar 25, 2021 11:55:39 AM classwork.Loger_Demo createUser
+INFO: Clicked in Signin link
+Mar 25, 2021 11:55:41 AM classwork.Loger_Demo createUser
+INFO: Entered email
+Mar 25, 2021 11:55:42 AM classwork.Loger_Demo createUser
+INFO: Cicked on create button
+Mar 25, 2021 11:55:44 AM classwork.Loger_Demo createUser
+INFO: Selected Mr Radio
+Mar 25, 2021 11:55:44 AM classwork.Loger_Demo createUser
+INFO: Entered first name
+Mar 25, 2021 11:55:44 AM classwork.Loger_Demo createUser
+INFO: Entered last name
+Mar 25, 2021 11:55:44 AM classwork.Loger_Demo createUser
+INFO: email found : test786@tst786.com
+Mar 25, 2021 11:55:44 AM classwork.Loger_Demo createUser
+INFO: Email validation failed
+Mar 25, 2021 11:55:44 AM classwork.Loger_Demo createUser
+INFO: Entered password
+Mar 25, 2021 11:55:45 AM classwork.Loger_Demo createUser
+INFO: Selecting chkbx1..
+Mar 25, 2021 11:55:45 AM classwork.Loger_Demo createUser
+INFO: Selecting chkbx2..
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered adress first name
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered adress last name
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered adress 
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered City 
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Selected State
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered Zip
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered textarea
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered mobile
+Mar 25, 2021 11:55:46 AM classwork.Loger_Demo createUser
+INFO: Entered alias
+Mar 25, 2021 11:55:52 AM classwork.Loger_Demo createUser
+INFO: Cicked on submmit button
+Mar 25, 2021 11:55:52 AM classwork.Loger_Demo createUser
+INFO: User Created successfully

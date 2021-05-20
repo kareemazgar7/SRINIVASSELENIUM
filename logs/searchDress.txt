@@ -1,0 +1,18 @@
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+SEVERE: This is severe message
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+WARNING: this is warning message
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+INFO: This is info message
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+CONFIG: this is config message
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+FINE: this is fine message
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+FINER: this is finer message 
+Mar 25, 2021 11:55:28 AM classwork.Loger_Demo searchDress
+FINEST: this is finest message
+Mar 25, 2021 11:55:32 AM classwork.Loger_Demo searchDress
+INFO: Enterd the search String
+Mar 25, 2021 11:55:37 AM classwork.Loger_Demo searchDress
+INFO: cliecked on search button

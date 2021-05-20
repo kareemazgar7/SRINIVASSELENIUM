@@ -1,0 +1,64 @@
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+SEVERE: This is severe message
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+WARNING: this is warning message
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+INFO: This is info message
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+CONFIG: this is config message
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+FINE: this is fine message
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+FINER: this is finer message 
+Mar 25, 2021 12:11:24 PM classwork.logging.LoggersDemo searchDress
+FINEST: this is finest message
+Mar 25, 2021 12:11:28 PM classwork.logging.LoggersDemo searchDress
+INFO: Enterd the search String
+Mar 25, 2021 12:11:32 PM classwork.logging.LoggersDemo searchDress
+INFO: cliecked on search button
+Mar 25, 2021 12:11:34 PM classwork.logging.LoggersDemo createUser
+INFO: Clicked in Signin link
+Mar 25, 2021 12:11:37 PM classwork.logging.LoggersDemo createUser
+INFO: Entered email
+Mar 25, 2021 12:11:37 PM classwork.logging.LoggersDemo createUser
+INFO: Cicked on create button
+Mar 25, 2021 12:11:38 PM classwork.logging.LoggersDemo createUser
+INFO: Selected Mr Radio
+Mar 25, 2021 12:11:38 PM classwork.logging.LoggersDemo createUser
+INFO: Entered first name
+Mar 25, 2021 12:11:38 PM classwork.logging.LoggersDemo createUser
+INFO: Entered last name
+Mar 25, 2021 12:11:38 PM classwork.logging.LoggersDemo createUser
+INFO: email found : test787@tst787.com
+Mar 25, 2021 12:11:38 PM classwork.logging.LoggersDemo createUser
+INFO: Email validation failed
+Mar 25, 2021 12:11:38 PM classwork.logging.LoggersDemo createUser
+INFO: Entered password
+Mar 25, 2021 12:11:39 PM classwork.logging.LoggersDemo createUser
+INFO: Selecting chkbx1..
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Selecting chkbx2..
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered adress first name
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered adress last name
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered adress 
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered City 
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Selected State
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered Zip
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered textarea
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered mobile
+Mar 25, 2021 12:11:40 PM classwork.logging.LoggersDemo createUser
+INFO: Entered alias
+Mar 25, 2021 12:11:43 PM classwork.logging.LoggersDemo createUser
+INFO: Cicked on submmit button
+Mar 25, 2021 12:11:44 PM classwork.logging.LoggersDemo createUser
+INFO: User Created successfully
+Mar 25, 2021 12:11:49 PM classwork.logging.LoggersDemo close
+INFO: closing browser
